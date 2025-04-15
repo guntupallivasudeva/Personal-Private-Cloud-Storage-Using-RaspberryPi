@@ -41,3 +41,4 @@ about the developing personal edge cloud storage using Raspberry Pi where we cre
 9.Port Forwarding Nextcloud  
 
 ## If any one want the Raspberry Pi 5 16GB ram for Low cost ping me on mail vasudevaguntupalli@gmail.com 
+## Only 10 days Used Rasperry with cooling fan and Transparent Acrylic Case
