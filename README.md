@@ -30,7 +30,6 @@ about the developing personal edge cloud storage using Raspberry Pi where we cre
 
 ## chronological order of this project
 ### first and foremost install Raspbian OS in the SD Card And plug it to the Raspberry pi and then follow these steps.
-
 1.Installing Apache and PHP.
 2.Setting up a MySQL Database and User.
 3.Downloading Nextcloud.
@@ -40,5 +39,5 @@ about the developing personal edge cloud storage using Raspberry Pi where we cre
 7.Increasing Nextcloud’s Max Upload Size.
 8.Setting up SSL for Nextcloud.
 9.Port Forwarding Nextcloud.
-
+port forward
 ## If any one want the Raspberry Pi 5 16GB ram for Low cost ping me on mail vasudevaguntupalli@gmail.com 
